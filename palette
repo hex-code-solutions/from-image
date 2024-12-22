@@ -1,0 +1,11 @@
+{
+    "v": 1,
+    "versions":{
+        "0": {
+            "enabled": false
+        },
+        "1.0.7": {
+            "enabled": true
+        }
+    }
+}
